@@ -3,7 +3,7 @@ using namespace std;
 
 struct orang{
     string nama;
-    string alama;
+    string alamat;
     int umur;
 };
 
