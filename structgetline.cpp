@@ -12,7 +12,7 @@ struct mahasiswa
 {
     string nama;
     alamatDetail alamat;
-    int umu;
+    int umur;
 };
 
 int main()
