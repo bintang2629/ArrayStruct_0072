@@ -17,7 +17,7 @@ struct mahasiswa
 int main()
 {
     // deklarasi variable struct
-    mahasis mhs;
+    mahasiswa mhs;
     // mengisi data
     cout << "Isikan data nama : ";
     cin >> mhs.nama;
